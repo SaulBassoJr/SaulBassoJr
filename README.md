@@ -1,6 +1,6 @@
 ### Olá, eu sou o Saul.! 👋
 
-- 🎓 Cursando Bacharelado em Engenharia de Software pela Universidade Estadual de Ponta grossa.
+- 🎓  Cursando Bacharelado em Engenharia de Software pela Universidade Estadual de Ponta grossa.
 
 <div>
   <a hreft="https://github.com/SaulBassoJr">
