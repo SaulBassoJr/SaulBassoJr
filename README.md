@@ -1,4 +1,4 @@
-### Olá, eu sou o Saul..! 👋
+### Olá, eu sou o Saul.! 👋
 
 - 🎓 Cursando Bacharelado em Engenharia de Software na Universidade Estadual de Ponta grossa.
 
