@@ -1,6 +1,9 @@
 ### Olá, eu sou o Saul.! 👋
 
-- 🎓  Cursando Bacharelado em Engenharia de Software pela Universidade Estadual de Ponta grossa.
+- 🎓  Formado em Engenharia de Software pela Universidade Estadual de Ponta grossa.
+- 💡  Instrutor de TI.
+- 💻  Desenvolvedor Front-End.
+- 📚  Estudando, React e TypeScript
 
 <div>
   <a hreft="https://github.com/SaulBassoJr">
