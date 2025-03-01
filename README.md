@@ -2,8 +2,8 @@
 
 - 🎓  Formado em Engenharia de Software pela Universidade Estadual de Ponta grossa.
 - 💡  Instrutor de TI.
-- 💻  Desenvolvedor Front-End.
-- 📚  Estudando, React e TypeScript
+- 💻  Desenvolvedor Front-End: JavaScript, HTML, CSS, React.
+- 📚  Mestrando em Computação Aplicada - UEPG
 
 <div>
   <a hreft="https://github.com/SaulBassoJr">
